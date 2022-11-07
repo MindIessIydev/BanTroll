@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "lol",
+    "name": "BanTroll",
+    "description": "Like the real thing, only fake!",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "a.com",
+    "updateUrl": "a.com",
+    "authorList": [
+      "Mindlessly"
+    ],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
